@@ -1,0 +1,42 @@
+>> EMPX 
+
+"Event-Driven Multiplatform Programming Xperience"
+
+Programa orientado a la experiencia multiplataformica para 
+realizar proyectos basicos con el uso de su API con Node y modulo de express.
+
+Su uso contextual es el crear una Aplicacion Web y una Android.
+La instalacion consta de partes sencillas desde el gestor de paquetes
+hasta el montaje de Heroku junto GitHub.
+
+Manual: 
+
+<< EMPX esta basado en 
+> Javascript con Node.Js 
+> HTML5 con EJS (template engine)
+> CSS3 con BOOSTRAP5
+> GitHub Y Heroku
+
+CMD a Node:
+
+npm > gestor {npm i} > Installer 
+cls > clear
+get('/', (req,res) => res.render(EJS)) >> MONTAR EJS
+import var from "var";
+
+
+npx nodemon "source" // TESTING DEV for SOURCE CODE
+
+Montaje:
+
+1. Montar NMP 
+2. Montar paquetes de json y modulos de node 
+ > Instalar {ejs, express, morgan,validate.js}
+ > Instalar DevD {nodemon -D}
+ > Añadir comando Runner y Starter
+ > Añadir type module
+ > 
+3. Montar Targeteable "Main" con Javascript
+4. Montar importaciones {express, morgan, (join, dirname)path, (fileURLToPath)url }
+5. Montar const Aplicativo 0 y __dirname
+6. 
